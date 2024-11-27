@@ -1,0 +1,14 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+node_modules
+npm-debug.log
+out
+gen
+# Created by .ignore support plugin (hsz.mobi)
+
+yarn.lock
+package-lock.json
